@@ -1,6 +1,6 @@
 # Shafira Daffa Tzabillah's Profile
 
-![Profile Picture]([[https://example.com/profile-picture.jpg](https://www.balisafarimarinepark.com/wp-content/uploads/2023/07/MONYET-600x400.webp?p=47516)](https://www.balisafarimarinepark.com/wp-content/uploads/2023/07/MONYET-600x400.webp?p=47516))
+![Profile Picture](https://images.app.goo.gl/LpoWNSTf4aDzNJPc9)
 
 ## Introduction
 
