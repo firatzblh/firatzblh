@@ -1,6 +1,6 @@
 # Shafira Daffa Tzabillah's Profile
 
-![Profile Picture]([https://images.app.goo.gl/LpoWNSTf4aDzNJPc9](https://www.google.com/url?sa=i&url=https%3A%2F%2Frejabar.republika.co.id%2Fberita%2Fqsbkz6487%2Fmotif-pembuat-hoaks-babi-ngepet-di-depok-ingin-terkenal&psig=AOvVaw0QWfpDyOsVooYRxOPSUHkT&ust=1712741542876000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCYiszptIUDFQAAAAAdAAAAABAJ))
+![Profile Picture](https://example.com/profile-picture.jpg)
 
 ## Introduction
 
