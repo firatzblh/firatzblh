@@ -1,40 +1,50 @@
 # Shafira Daffa Tzabillah's Profile
 
 ## Introduction
+Hello! I'm **Shafira Daffa Tzabillah**, a dedicated **System Analyst** with a strong foundation in analyzing and designing software solutions. I specialize in translating business requirements into technical specifications and ensuring the alignment of IT systems with organizational goals.
 
-Hello! I'm Shafira Daffa Tzabillah, a dedicated **System Analyst** with a strong foundation in analyzing and designing software solutions. I specialize in translating business requirements into technical specifications and ensuring the alignment of IT systems with organizational goals.
+---
 
 ## Skills
+- **System Analysis Methodologies**: Proficient in UML, ERD, and other system analysis techniques.
+- **Requirements Gathering**: Strong understanding of requirements documentation and stakeholder communication.
+- **Business Process Modeling**: Experienced in workflow analysis and business process modeling.
+- **Software System Design**: Skilled in designing systems to meet organizational goals and ensuring system integration.
+- **User Testing & Evaluation**: Expertise in user testing, feedback, and system evaluation for improvements.
+- **Cross-functional Collaboration**: Ability to work across teams to deliver effective technical solutions.
 
-- Proficient in system analysis methodologies (e.g., UML, ERD)
-- Strong understanding of requirements gathering and documentation
-- Experienced in business process modeling and workflow analysis
-- Knowledgeable in designing software systems and ensuring system integration
-- Skilled in user testing, system evaluation, and providing actionable feedback
-- Expertise in working with cross-functional teams to deliver optimal technical solutions
+---
 
 ## Projects
 
 ### Project 1: HR Management System Analysis
-- Conducted a thorough analysis of business requirements for a comprehensive HR management system
-- Collaborated with stakeholders to identify key business processes and translated them into system specifications
-- Provided recommendations for system architecture and ensured the system met the organizational needs
+- Analyzed business requirements for a comprehensive HR management system.
+- Collaborated with stakeholders to translate business processes into system specifications.
+- Provided recommendations for system architecture to meet organizational needs.
 
 ### Project 2: Inventory Management System Design
-- Led the system analysis phase for an inventory management system, focusing on data flow and process optimization
-- Worked closely with developers to ensure the design was feasible and aligned with business needs
-- Ensured integration with existing systems to improve operational efficiency
+- Led the system analysis phase, optimizing data flow and processes.
+- Worked with developers to ensure the system design was feasible and aligned with business needs.
+- Ensured seamless integration with existing systems for improved operational efficiency.
+
+---
 
 ## Education
+- **Bachelor's Degree in Computer Science**  
+  *TELKOM University*, Surabaya (Currently pursuing)
 
-- Currently pursuing a **Bachelor's Degree in Computer Science** at **TELKOM University**, Surabaya.
+---
 
 ## Certifications
+- **Certified Business Analyst Professional (CBAP)**  
+  International Institute of Business Analysis
 
-- Certified **Business Analyst Professional (CBAP)** - International Institute of Business Analysis
+---
 
 ## Contact
+Feel free to reach out to me via email at:  
+[shafira.tz03@gmail.com](mailto:shafira.tz03@gmail.com)
 
-Feel free to reach out to me via email at [shafira.tz03@gmail.com](mailto:shafira.tz03@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/shafira-daffa-tzabillah-52827a327/).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/shafira-daffa-tzabillah-52827a327/).
 
 Let's collaborate and create innovative solutions together!
