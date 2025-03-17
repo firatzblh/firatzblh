@@ -29,18 +29,6 @@ Hello! I'm **Shafira Daffa Tzabillah**, a dedicated **System Analyst** with a st
 
 ---
 
-## Education
-- **Bachelor's Degree in Computer Science**  
-  *TELKOM University*, Surabaya (Currently pursuing)
-
----
-
-## Certifications
-- **Certified Business Analyst Professional (CBAP)**  
-  International Institute of Business Analysis
-
----
-
 ## Contact
 Feel free to reach out to me via email at:  
 [shafira.tz03@gmail.com](mailto:shafira.tz03@gmail.com)
